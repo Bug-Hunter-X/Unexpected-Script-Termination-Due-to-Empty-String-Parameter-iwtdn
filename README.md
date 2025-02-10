@@ -1,0 +1,1 @@
+This example demonstrates a common error in VBScript: unexpected script termination when an empty string is passed as a parameter. The `Err.Raise` statement is used to handle this scenario. However, poor error handling or omitting necessary checks can lead to runtime failures.  The solution shows how to properly handle this situation to prevent unexpected termination.
